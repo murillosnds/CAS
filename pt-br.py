@@ -1,7 +1,7 @@
 # Aquae Attractio Calculator - 2025
 # Open Source
 # By @murillosnds on GitHub 
-
+# Português do Brasil
 
 nome = input("Qual é seu nome? ")
 
