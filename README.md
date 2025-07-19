@@ -11,6 +11,8 @@
 #### Idiomas disponíveis: Inglês, Português Brasileiro e Espanhol. 
 
 # Instalação
+1. Clone o repositório:
+
 ```bash
 git clone https://github.com/murillosnds/Aquae-Attractio-Calculator.git
 cd Aquae-Attractio-Calculator
