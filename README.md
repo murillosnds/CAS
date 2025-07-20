@@ -23,4 +23,10 @@
 ```bash
 git clone https://github.com/murillosnds/Aquae-Attractio-Calculator.git
 cd Aquae-Attractio-Calculator
+```
 
+2. Acesse a pasta do idioma desejado
+
+3. Entre o arquivo .exe e preencha as lacunas.
+
+4. E pronto! Está a quantidade ideal de água para você consumir todos os dias! Boa hidratação!
