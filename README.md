@@ -1,5 +1,6 @@
 # Aquae Attractio Calculator 💧
-## By murillosnds
+
+> 👨🏻‍💻 **Feito por: Murillo Sergio**
 
 ![Aquae Attractio Calculator](https://i.imgur.com/OT9SZ1J.png)
 
@@ -10,6 +11,9 @@
 #### Idiomas disponíveis: Inglês, Português Brasileiro e Espanhol. 
 
 # Instalação
-### É preciso apenas baixar o arquivo em python (.py) de uma linguagem disponivel. Após isso, apenas executar o código!
+1. Clone o repositório:
 
+```bash
+git clone https://github.com/murillosnds/Aquae-Attractio-Calculator.git
+cd Aquae-Attractio-Calculator
 
