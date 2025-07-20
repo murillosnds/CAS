@@ -10,6 +10,9 @@
 
 #### Idiomas disponíveis: Inglês, Português Brasileiro e Espanhol. 
 
+#### Imagem da aplicação
+![Aquae Attractio Calculator](https://i.ibb.co/RkQynZy8/calculator-aquae.png)
+
 # Instalação
 1. Clone o repositório:
 
