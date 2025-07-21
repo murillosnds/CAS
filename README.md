@@ -10,6 +10,8 @@
     <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/BR.svg" alt="made in <BR>">
 </a>
 
+![Python](https://img.shields.io/badge/FEITO_EM%20PYTHON-100000?style=for-the-badge&logo=PYTHON&logoColor=FFFFFF&labelColor=000000&color=006E86) 
+
 ### Esse Projeto foi desenvolvido inteiramente por @murillosnds. O uso e modificação é liberado para qualquer pessoa.
 
 #### Idiomas disponíveis: Inglês, Português Brasileiro e Espanhol. 
