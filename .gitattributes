@@ -1,2 +1,2 @@
-*.sh linguist-vendored
-*.tcl linguist-vendored
+*.tcl linguist-detectable=false
+*.sh linguist-detectable=false
