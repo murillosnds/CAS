@@ -32,8 +32,7 @@
 git clone https://github.com/murillosnds/Aquae-Attractio-Calculator.git
 cd Aquae-Attractio-Calculator
 ```
-<p>2. Acesse a pasta do repositório.</p>
 
-<p>3. Abra a pasta <strong>Python</strong>.</p>
+<p>2. Abra a pasta <strong>Python</strong>.</p>
 
-<p>4. Pronto! Os arquivos bases estarão lá.</p>
+<p>3. Pronto! Os arquivos bases estarão lá.</p>
