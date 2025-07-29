@@ -19,7 +19,7 @@
 
 # Instalação
 <p>1. Acesse <a href="https://github.com/murillosnds/Aquae-Attractio-Calculator/releases" target="_blank">Releases</a></p>
-<p>2. Encontre a versão mais recente e baixe o <strong>Source code(zip)</strong></p>
+<p>2. Encontre a versão mais recente e baixe o <strong>Source code (zip)</strong></p>
 <p>3. Extraia o arquivo .zip</p>
 <p>4. Acesse a pasta do idioma preferido e abra o arquivo .exe</p>
 <p>5. Insira suas informações.</p>
