@@ -18,15 +18,9 @@
 ![Aquae Attractio Calculator](https://i.ibb.co/RkQynZy8/calculator-aquae.png)
 
 # Instalação
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/murillosnds/Aquae-Attractio-Calculator.git
-cd Aquae-Attractio-Calculator
-```
-
-2. Acesse a pasta do idioma desejado
-
-3. Entre o arquivo .exe e preencha as lacunas.
-
-4. E pronto! Está a quantidade ideal de água para você consumir todos os dias! Boa hidratação!
+<p>1. Acesse <a href="https://github.com/murillosnds/Aquae-Attractio-Calculator/releases" target="_blank">Releases</a></p>
+<p>2. Encontre a versão mais recente e baixe o <strong>Source code(zip)</strong></p>
+<p>3. Extraia o arquivo .zip</p>
+<p>4. Acesse a pasta do idioma preferido e abra o arquivo .exe</p>
+<p>5. Insira suas informações.</p>
+<p>6. E pronto! Está a quantidade ideal de água para você consumir todos os dias! Boa hidratação!</p>
