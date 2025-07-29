@@ -10,7 +10,7 @@
 ![Stars](https://img.shields.io/github/stars/murillosnds/Aquae-Attractio-Calculator)
 ![Flag-Brazil](https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/BR.svg)
 
-<p>Esse Projeto foi desenvolvido inteiramente por <a href="https://github.com/murillosnds" target="_blank">@murillosnds</a>. O uso e modificação é liberado para qualquer pessoa.</p>
+<p>Esse Projeto foi desenvolvido inteiramente por <a href="https://github.com/murillosnds" target="_blank" rel="noopener noreferrer">@murillosnds</a>. O uso e modificação é liberado para qualquer pessoa.</p>
 
 #### Idiomas disponíveis: Inglês, Português Brasileiro e Espanhol. 
 
