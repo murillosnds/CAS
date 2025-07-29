@@ -17,7 +17,7 @@
 #### 🖼️ Imagem da aplicação
 ![Aquae Attractio Calculator](https://i.ibb.co/RkQynZy8/calculator-aquae.png)
 
-# Instalação
+# 🚀 Instalação
 <p>1. Acesse <a href="https://github.com/murillosnds/Aquae-Attractio-Calculator/releases" target="_blank">Releases</a></p>
 <p>2. Encontre a versão mais recente e baixe o <strong>Source code (zip)</strong></p>
 <p>3. Extraia o arquivo .zip</p>
@@ -27,7 +27,7 @@
 
 <a href='https://www.virustotal.com/gui/file/a025b597f53ddaa58f7168b351d30bacaf1b6a3983b2d3e398bb4bcaa60c8b1f' target="_blank"><img alt='Virustotal' src='https://img.shields.io/badge/Virus_Total: 0 / 72-100000?style=flat&logo=Virustotal&logoColor=white&labelColor=0036F4&color=5C5C5C'/></a>
 
-# Instalação da base .py
+# 🚀 Instalação da base .py
 <p>1. Clone o repositório.</p>
 
 ```bash
