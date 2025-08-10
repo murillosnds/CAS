@@ -37,4 +37,8 @@ cd Aquae-Attractio-Calculator
 
 <p>2. Abra a pasta <strong>Python</strong>.</p>
 
+```bash
+cd Python
+```
+
 <p>3. Pronto! Os arquivos bases estarão lá.</p>
