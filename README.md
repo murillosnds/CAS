@@ -23,7 +23,7 @@
 <p>3. Extraia o arquivo <code>.zip</code>.</p>
 <p>4. Acesse a pasta do idioma preferido e abra o arquivo <code>.exe</code>.</p>
 <p>5. Insira suas informações.</p>
-<p>6. E pronto! Está a quantidade ideal de água para você consumir todos os dias! Boa hidratação!</p>
+<p>6. E pronto! Esta é a quantidade ideal de água para você consumir todos os dias! Boa hidratação!</p>
 
 <a href='https://www.virustotal.com/gui/file/a025b597f53ddaa58f7168b351d30bacaf1b6a3983b2d3e398bb4bcaa60c8b1f' target="_blank"><img alt='Virustotal' src='https://img.shields.io/badge/Virus_Total: 0 / 72-100000?style=flat&logo=Virustotal&logoColor=white&labelColor=0036F4&color=5C5C5C'/></a>
 
