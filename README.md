@@ -1,4 +1,4 @@
-# Aquae Attractio Calculator 💧
+# CAS - Calculator Aquae Sumptionis 💧
 
 > 👨🏻‍💻 **Feito por: Murillo Sergio**
 
