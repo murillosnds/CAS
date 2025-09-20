@@ -9,7 +9,7 @@
 #### Idiomas disponíveis: Inglês, Português Brasileiro e Espanhol. 
 
 #### 🖼️ Imagem da aplicação
-![Aquae Attractio Calculator]()
+![CAS]()
 
 # 🚀 Acesse já:
 https://murillosnds.github.io/CAS/
