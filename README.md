@@ -4,7 +4,7 @@
 
 ## Calculadora de ingestão de água por dia! Rápida e fácil de usar.
 
-![Flag-Brazil](https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/BR.svg)
+![Flag-Brazil]()
 
 <p>Esse Projeto foi desenvolvido inteiramente por <a href="https://github.com/murillosnds" target="_blank" rel="noopener noreferrer">@murillosnds</a>.
 
