@@ -9,7 +9,7 @@
 #### Idiomas disponíveis: Inglês, Português Brasileiro e Espanhol. 
 
 #### 🖼️ Imagem da aplicação
-![CAS]()
+![CAS](https://i.imgur.com/QWh8Jeg.png)
 
 ### Desevolvimento:
 
