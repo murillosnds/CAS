@@ -13,12 +13,7 @@
 
 ### Desevolvimento (Stacks utilizadas):
 
-  Front-end:
-  - HTML,CSS,JS
-  - React
-    
-  Back-end:
-  - API REST (Python (Flask))
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,git&theme=dark" alt="Github Stats" width="400px" />
 
 # 🚀 Acesse já:
 https://murillosnds.github.io/CAS/
