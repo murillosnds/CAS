@@ -11,6 +11,15 @@
 #### 🖼️ Imagem da aplicação
 ![CAS]()
 
+### Desevolvimento:
+
+Stacks utilizadas:
+  Front-end:
+  - HTML,CSS,JS
+  - React
+  Back-end:
+  - API REST (Python (Flask))
+
 # 🚀 Acesse já:
 https://murillosnds.github.io/CAS/
 
