@@ -11,9 +11,15 @@
 #### 🖼️ Imagem da aplicação
 ![CAS]()
 
-### Desevolvimento (Stacks utilizadas):
+### Desevolvimento:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,git&theme=dark" alt="Github Stats" width="400px" />
+<p>Front-end</p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Github Stats" width="300px" />
+
+<p>Back-end (API REST)</p>
+
+<img src="https://skillicons.dev/icons?i=python,flask,git&theme=dark" alt="Github Stats" width="250px" />
 
 # 🚀 Acesse já:
 https://murillosnds.github.io/CAS/
