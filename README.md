@@ -11,12 +11,12 @@
 #### 🖼️ Imagem da aplicação
 ![CAS]()
 
-### Desevolvimento:
+### Desevolvimento (Stacks utilizadas):
 
-Stacks utilizadas:
   Front-end:
   - HTML,CSS,JS
   - React
+    
   Back-end:
   - API REST (Python (Flask))
 
