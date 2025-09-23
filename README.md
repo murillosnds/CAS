@@ -15,11 +15,15 @@
 
 <p>Front-end</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Github Stats" width="300px" />
+![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 
 <p>Back-end (API REST)</p>
 
-<img src="https://skillicons.dev/icons?i=python,flask,git&theme=dark" alt="Github Stats" width="250px" />
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 # 🚀 Acesse já:
 https://murillosnds.github.io/CAS/
