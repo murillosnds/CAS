@@ -33,6 +33,9 @@ Ao fazer isso, a resposta é salva no banco de dados do PostgreSQL.
 
 ![PostgreSQL](https://i.imgur.com/UQFy7w8.png)
 
+## Arquitetura do projeto
+
+<img src="https://i.imgur.com/tQCUPJ7.png" alt="Texto alternativo" width="600">
 
 ## Como rodar o projeto
 
