@@ -82,3 +82,4 @@ python create_tables.py
 ```bash
 uvicorn api:app --reload --host 0.0.0.0 --port 8000
 ```
+⭐ Se este projeto foi útil para você, considere dar uma estrela no GitHub!
