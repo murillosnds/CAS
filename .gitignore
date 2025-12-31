@@ -1,26 +1,14 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Python
+__pycache__/
+*.pyc
+.venv/
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
+# Environment variables
+.env
 
-# testing
-/coverage
+# Docker
+postgres_data/
 
-# production
-/build
-
-node_modules/
-build/
-
-# misc
+# OS
 .DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+Thumbs.db
