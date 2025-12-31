@@ -45,11 +45,11 @@ docker-compose up --build
 
 ## Como rodar o projeto sem Docker 🐳🚫
 
-<ol style="list-style-type: disc;">
+<ul style="list-style-type: disc;">
 <li>1 - Configure o PostgreSQL localmente
 <li>2- Instale Redis e RabbitMQ
 <li>3- Configure o ambiente:
-</ol>
+</ul>
 
 ```bash
 python -m venv .venv
@@ -57,9 +57,9 @@ source .venv/bin/activate  # No Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-<ol style="list-style-type: disc;">
+<ul style="list-style-type: disc;">
 <li>4- Configure o arquivo .env
-</ol>
+</ul>
 
 ```bash
 DB_HOST=localhost
@@ -67,17 +67,17 @@ REDIS_HOST=localhost
 RABBITMQ_HOST=localhost
 ```
 
-<ol style="list-style-type: disc;">
+<ul style="list-style-type: disc;">
 <li>5- Crie as tabelas
-</ol>
+</ul>
 
 ```bash
 python create_tables.py
 ```
 
-<ol style="list-style-type: disc;">
+<ul style="list-style-type: disc;">
 <li>6- Execute a API
-</ol>
+</ul>
 
 ```bash
 uvicorn api:app --reload --host 0.0.0.0 --port 8000
