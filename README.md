@@ -45,7 +45,7 @@ docker-compose up --build
 
 ## Como rodar o projeto sem Docker 🐳🚫
 
-<ol style="list-style-type: disc;">
+<ol style="list-style-type: disc; list-style: none;">
 <li>1 - Configure o PostgreSQL localmente
 <li>2- Instale Redis e RabbitMQ
 <li>3- Configure o ambiente:
