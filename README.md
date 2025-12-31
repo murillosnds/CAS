@@ -15,6 +15,8 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 </div>
 
 ## Como funciona
@@ -41,4 +43,42 @@ cp .env.exemplo .env
 docker-compose up --build
 ```
 
-**Caso não deseje utilizar o Docker, copie o arquivo .env.example para .env, substitua o valor de DB_HOST por localhost e informe seu usuário e senha do PostgreSQL local.**
+## Como rodar o projeto sem Docker 🐳🚫
+
+<ol style="list-style-type: disc;">
+<li>1 - Configure o PostgreSQL localmente
+<li>2- Instale Redis e RabbitMQ
+<li>3- Configure o ambiente:
+</ol>
+
+```bash
+python -m venv .venv
+source .venv/bin/activate  # No Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+```
+
+<ol style="list-style-type: disc;">
+<li>4- Configure o arquivo .env
+</ol>
+
+```bash
+DB_HOST=localhost
+REDIS_HOST=localhost
+RABBITMQ_HOST=localhost
+```
+
+<ol style="list-style-type: disc;">
+<li>5- Crie as tabelas
+</ol>
+
+```bash
+python create_tables.py
+```
+
+<ol style="list-style-type: disc;">
+<li>6- Execute a API
+</ol>
+
+```bash
+uvicorn api:app --reload --host 0.0.0.0 --port 8000
+```
