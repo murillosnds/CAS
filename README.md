@@ -31,7 +31,6 @@ Ao fazer isso, a resposta é salva no banco de dados do PostgreSQL.
 
 ![PostgreSQL](https://i.imgur.com/UQFy7w8.png)
 
-<br>
 
 ## Como rodar o projeto
 
