@@ -12,11 +12,7 @@
   align-items: center;">
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 </div>
 
 ## Como funciona
@@ -29,14 +25,6 @@ Para funcionar, a API usa informações como: peso, idade, atividade física (se
 Exemplo de request e response da API no Postman
 <br>
 
-Ao fazer isso, a resposta é salva no banco de dados do PostgreSQL.
-
-![PostgreSQL](https://i.imgur.com/UQFy7w8.png)
-
-## Arquitetura do projeto
-
-<img src="https://i.imgur.com/tQCUPJ7.png" alt="Texto alternativo" width="600">
-
 ## Como rodar o projeto
 
 ```bash
@@ -48,41 +36,5 @@ docker-compose up --build
 
 ## Como rodar o projeto sem Docker 🐳🚫
 
-<ul style="list-style-type: disc;">
-<li>1 - Configure o PostgreSQL localmente
-<li>2- Instale Redis e RabbitMQ
-<li>3- Configure o ambiente:
-</ul>
 
-```bash
-python -m venv .venv
-source .venv/bin/activate  # No Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-```
-
-<ul style="list-style-type: disc;">
-<li>4- Configure o arquivo .env
-</ul>
-
-```bash
-DB_HOST=localhost
-REDIS_HOST=localhost
-RABBITMQ_HOST=localhost
-```
-
-<ul style="list-style-type: disc;">
-<li>5- Crie as tabelas
-</ul>
-
-```bash
-python create_tables.py
-```
-
-<ul style="list-style-type: disc;">
-<li>6- Execute a API
-</ul>
-
-```bash
-uvicorn api:app --reload --host 0.0.0.0 --port 8000
-```
 ⭐ Se este projeto foi útil para você, considere dar uma estrela no GitHub!
