@@ -75,7 +75,7 @@ Example of API request and response in Postman
 ```bash
 git clone https://github.com/murillosnds/CAS.git
 cd CAS
-docker build -t agua-api .
+docker build -t cas-api .
 docker run -p 8000:8000 agua-api
 # Open http://localhost:8000/docs
 ```
