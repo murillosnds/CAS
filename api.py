@@ -33,7 +33,7 @@ async def calcular_agua(dados: Informacoes):
     else:
         faixa = "idoso"
 
-    ingestao *= idade_config[dados.idade]
+    ingestao *= idade_config[faixa]
 
     atividade_config = {
         "sedentario": 1.0,
