@@ -48,7 +48,7 @@ Example of API request and response in Postman
 }
 ```
 
-## ES - Ejemplo
+## es - Ejemplo
 
 ```bash
 {
@@ -79,7 +79,3 @@ docker build -t agua-api .
 docker run -p 8000:8000 agua-api
 # Open http://localhost:8000/docs
 ```
-
-Leia em português: 
-<br>
-Leer en español: 
