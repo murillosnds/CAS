@@ -44,7 +44,7 @@ Example of API request and response in Postman
   "weight": 74,
   "age": 20,
   "activity": "sedentary",
-  "weather": "hot",
+  "weather": "hot"
 }
 ```
 
@@ -55,7 +55,7 @@ Example of API request and response in Postman
   "peso": 74,
   "edad": 20,
   "atividade": "sedentario",
-  "clima": "caliente",
+  "clima": "caliente"
 }
 ```
 
@@ -66,7 +66,7 @@ Example of API request and response in Postman
   "peso": 74,
   "idade": 20,
   "atividade": "ativo",
-  "clima": "frio",
+  "clima": "frio"
 }
 ```
 
