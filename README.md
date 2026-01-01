@@ -30,11 +30,7 @@ Exemplo de request e response da API no Postman
 ```bash
 git clone https://github.com/murillosnds/CAS.git
 cd CAS
-cp .env.exemplo .env
-docker-compose up --build
+docker build -t agua-api .
+docker run -p 8000:8000 agua-api
+# Acesse http://localhost:8000/docs
 ```
-
-## Como rodar o projeto sem Docker 🐳🚫
-
-
-⭐ Se este projeto foi útil para você, considere dar uma estrela no GitHub!
