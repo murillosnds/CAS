@@ -70,6 +70,59 @@ Example of API request and response in Postman
 }
 ```
 
+<hr>
+
+## Weather:
+
+en-US:
+
+```bash
+cold
+hot
+very hot
+```
+
+es:
+
+```bash
+frío
+caliente
+muy caliente
+```
+
+pt-BR:
+
+```bash
+frio
+quente
+muito quente
+```
+
+## Activity:
+
+en-US:
+
+```bash
+active
+sedentary
+```
+
+es:
+
+```bash
+activo
+sedentario
+```
+
+pt-BR:
+
+```bash
+ativo
+sedentario
+```
+
+<hr>
+
 ## How to run the project
 
 ```bash
